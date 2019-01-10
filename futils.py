@@ -28,7 +28,7 @@ def load_data(where  = "./flowers" ):
 
     '''
 
-    data_dir = where
+    data_dir = '/flowers'
     train_dir = data_dir + '/train'
     valid_dir = data_dir + '/valid'
     test_dir = data_dir + '/test'
